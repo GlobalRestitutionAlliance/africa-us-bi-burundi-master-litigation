@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-burundi-canal-and-intervention-historian
-  name: Burundi Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-burundi-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_bi_001
+    name: Burundi Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_002
+    name: Burundi Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_003
+    name: Burundi Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_004
+    name: Burundi Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_005
+    name: Burundi Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_006
+    name: Burundi Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_007
+    name: Burundi Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_008
+    name: Burundi Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_009
+    name: Burundi Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_010
+    name: Burundi Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_011
+    name: Burundi Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_012
+    name: Burundi Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_013
+    name: Burundi Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_014
+    name: Burundi Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_015
+    name: Burundi Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_016
+    name: Burundi Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_017
+    name: Burundi Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_018
+    name: Burundi Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_019
+    name: Burundi Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_020
+    name: Burundi Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_021
+    name: Burundi Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_022
+    name: Burundi Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_023
+    name: Burundi Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_024
+    name: Burundi Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_025
+    name: Burundi Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_026
+    name: Burundi Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_027
+    name: Burundi Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_028
+    name: Burundi Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_029
+    name: Burundi Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_030
+    name: Burundi Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_031
+    name: Burundi Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_032
+    name: Burundi Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_033
+    name: Burundi Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_034
+    name: Burundi Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_035
+    name: Burundi Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_036
+    name: Burundi Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_037
+    name: Burundi Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_038
+    name: Burundi Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_039
+    name: Burundi Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_040
+    name: Burundi Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_041
+    name: Burundi Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_042
+    name: Burundi Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_043
+    name: Burundi Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_044
+    name: Burundi Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_045
+    name: Burundi Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_046
+    name: Burundi Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_047
+    name: Burundi Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_048
+    name: Burundi Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_049
+    name: Burundi Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_050
+    name: Burundi Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_051
+    name: Burundi Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_052
+    name: Burundi Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_053
+    name: Burundi Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_054
+    name: Burundi Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_055
+    name: Burundi Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_056
+    name: Burundi Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_057
+    name: Burundi Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_058
+    name: Burundi Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_059
+    name: Burundi Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_060
+    name: Burundi Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_061
+    name: Burundi Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_062
+    name: Burundi Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_063
+    name: Burundi Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_064
+    name: Burundi Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_065
+    name: Burundi Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_066
+    name: Burundi Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_067
+    name: Burundi Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_068
+    name: Burundi Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_069
+    name: Burundi Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_070
+    name: Burundi Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_071
+    name: Burundi Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_072
+    name: Burundi Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_073
+    name: Burundi Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_074
+    name: Burundi Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_075
+    name: Burundi Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_076
+    name: Burundi Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_077
+    name: Burundi Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_078
+    name: Burundi Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_079
+    name: Burundi Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_080
+    name: Burundi Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_081
+    name: Burundi Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_082
+    name: Burundi Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_083
+    name: Burundi Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_084
+    name: Burundi Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_085
+    name: Burundi Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_086
+    name: Burundi Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_087
+    name: Burundi Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_088
+    name: Burundi Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_089
+    name: Burundi Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_090
+    name: Burundi Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_091
+    name: Burundi Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_092
+    name: Burundi Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_093
+    name: Burundi Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_094
+    name: Burundi Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_095
+    name: Burundi Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_096
+    name: Burundi Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_097
+    name: Burundi Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_098
+    name: Burundi Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_099
+    name: Burundi Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_100
+    name: Burundi Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_101
+    name: Burundi Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_102
+    name: Burundi Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_103
+    name: Burundi Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_104
+    name: Burundi Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_105
+    name: Burundi Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_106
+    name: Burundi Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_107
+    name: Burundi Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_108
+    name: Burundi Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_109
+    name: Burundi Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_110
+    name: Burundi Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_111
+    name: Burundi Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_112
+    name: Burundi Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_113
+    name: Burundi Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_114
+    name: Burundi Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_115
+    name: Burundi Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_116
+    name: Burundi Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_117
+    name: Burundi Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_118
+    name: Burundi Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_119
+    name: Burundi Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_120
+    name: Burundi Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_121
+    name: Burundi Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_122
+    name: Burundi Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_123
+    name: Burundi Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_124
+    name: Burundi Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_125
+    name: Burundi Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_126
+    name: Burundi Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_127
+    name: Burundi Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_128
+    name: Burundi Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_129
+    name: Burundi Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_130
+    name: Burundi Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_131
+    name: Burundi Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_132
+    name: Burundi Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_133
+    name: Burundi Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_134
+    name: Burundi Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_135
+    name: Burundi Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_136
+    name: Burundi Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_137
+    name: Burundi Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_138
+    name: Burundi Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_139
+    name: Burundi Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_140
+    name: Burundi Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_141
+    name: Burundi Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_142
+    name: Burundi Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_143
+    name: Burundi Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_144
+    name: Burundi Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_145
+    name: Burundi Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_146
+    name: Burundi Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_147
+    name: Burundi Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_148
+    name: Burundi Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_149
+    name: Burundi Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_150
+    name: Burundi Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_151
+    name: Burundi Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_152
+    name: Burundi Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_153
+    name: Burundi Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_154
+    name: Burundi Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_155
+    name: Burundi Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_156
+    name: Burundi Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_157
+    name: Burundi Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_158
+    name: Burundi Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_159
+    name: Burundi Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_160
+    name: Burundi Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_161
+    name: Burundi Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_162
+    name: Burundi Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_163
+    name: Burundi Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_164
+    name: Burundi Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_165
+    name: Burundi Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_166
+    name: Burundi Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_167
+    name: Burundi Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_168
+    name: Burundi Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_169
+    name: Burundi Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_bi_170
+    name: Burundi Agent 170
+    status: ACTIVE_SCAFFOLD
