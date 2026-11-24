@@ -35,26 +35,6 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
-| 2026-11-22 | UN_OHCHR_Burundi_browser.html | https://www.ohchr.org/en/countries/burundi | OpenCode/browser-fallback | 11fbea11a67b86208b1da7834e3f3e9288f749f7fec452a98ce0739349c1d1ce | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Library_of_Congress_-_Burundi_browser.html | https://www.loc.gov/item/?q=burundi+colonial | OpenCode/browser-fallback | 4b06eeb648727ddde34cf251c5d46ab0818bd605b6e5e35a3845f2125d5581bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | b84bf466f7eab2cef15ef31db8d84ad54704cba9b7b30576bbb92c18e43e42e6 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | World_Bank_Burundi_browser.html | https://data.worldbank.org/country/burundi | OpenCode/browser-fallback | a83a65151688f2f68cb7eb7c2af40e315e685118be36f714499cbf3bfedec478 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Belgian_State_Archives_public_portal_browser.html | https://www.arch.be/ | OpenCode/browser-fallback | e03943abeca255ba18d86c280958fa809194effae19c8c22e7a885cbc7245966 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | 5b73ee1c67689a14cd7e534be069d755ebdda7edfd8bb0ed605d3f924ad1aa54 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 54b1f50a95a8caf76faa1bd638ee797ed8d0b32d40daed1d453878669b5d530c | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | UNESCO_Memory_of_the_World_browser.html | https://www.unesco.org/en/memory-world | OpenCode/browser-fallback | 98494f1600822f2c6d4b87165a5595b30f5faf6eca1609f8f6cc2aefa6bb27a0 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
